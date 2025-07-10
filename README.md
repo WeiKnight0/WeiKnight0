@@ -39,7 +39,7 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=your-repo-1&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff)](https://github.com/WeiKnight0/Qt-TrainTicketManagementSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff)](https://github.com/WeiKnight0/Qt-TrainTicketManagementSystem)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=your-repo-2&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff)](https://github.com/weiknight0/your-repo-2) -->
 
 </div>
