@@ -30,7 +30,7 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 
 <div align="center">
 
-![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&icon_color=ff9900&text_color=ffffff)
+![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact)
 
 </div>
