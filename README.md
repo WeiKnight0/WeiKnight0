@@ -3,9 +3,11 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/84631479?v=4" alt="Wolf Avatar" width="200" style="border-radius: 50%; border: 5px solid #ff9900;"/>
   
-  [![Twitter](https://img.shields.io/badge/-Howl_at_me-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Telegram](https://img.shields.io/badge/-Join_my_pack-%2326A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yourhandle)
-  ![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-%23FFA500?style=flat)
+[![Bilibili](https://img.shields.io/badge/-Bilibili_Channel-%23FF8EB7?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/422502377)  
+<!-- [![Weibo](https://img.shields.io/badge/-Weibo-%23E6162D?style=flat&logo=sina-weibo&logoColor=white)](https://weibo.com/u/yourID)   -->
+<!-- [![Zhihu](https://img.shields.io/badge/-Zhihu_Q&A-%230066FF?style=flat&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/yourID) -->
+<!-- [![Xiaohongshu](https://img.shields.io/badge/-Xiaohongshu_Notes-%23FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/yourID) -->
+![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-%23FFA500?style=flat)  
 </div>
 
 ## 🐾 About Me
@@ -15,7 +17,7 @@
 ```
 *(Translation: "Woof!")*
 
-I'm **WeiKnight**, a **Wolf Programmer** 🐺💻 who loves coding! When I'm not hunting bugs in my code, you can find me:
+I'm **WeiKnight**, a **Wolf Programmer** 🐺💻 from China who loves coding! When I'm not hunting bugs in my code, you can find me:
 
 - 🌙 Howling at the moon (and sometimes at my compiler errors)
 - 🐾 Contributing to open source projects
