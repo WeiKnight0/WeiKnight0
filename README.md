@@ -1,4 +1,4 @@
-# 🐺 WeiKningt's Den 🐾
+# 🐺 WeiKnight's Den 🐾
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/84631479?v=4" alt="Wolf Avatar" width="200" style="border-radius: 50%; border: 5px solid #ff9900;"/>
@@ -30,9 +30,12 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 
 <div align="center">
 
-![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact)
+![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&show_icons=true&width=400)
 
+</div>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&width=400)
 </div>
 
 ## 🏷️ Featured Repositories
