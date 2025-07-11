@@ -30,12 +30,12 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 
 <div align="center">
 
-![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&show_icons=true&width=400)
+![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&show_icons=true&random=123)
 
 </div>
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&random=123)
 </div>
 
 ## 🏷️ Featured Repositories
@@ -49,7 +49,7 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 
 ## 🌙 Wolf's Activity Graph
 
-![Wolf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weiknight0&theme=github-dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&color=ff9900&line=ffffff&point=ff9900)
+![Wolf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weiknight0&theme=github-dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&color=ff9900&line=ffffff&point=ff9900&random=123)
 
 ## 🐺 How to Support This Wolf
 
