@@ -35,32 +35,28 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 </div>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wolf's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-## 🏷️ Featured Repositories
+## 🏷️ Wolf's Featured Repositories
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Qt-TrainTicketManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ## 🌙 Wolf's Activity Graph
 
-![Wolf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weiknight0&theme=github-dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&color=ff9900&line=ffffff&point=ff9900&random=123)
+[![Wolf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiknight0&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🐺 How to Support This Wolf
 
-**"This wolf currently resides in the bamboo firewall forest 🌳🔥, so treat links with pawsitive caution!"**
+**"This wolf currently resides in the bamboo firewall forest 🌳🔥, so treat links with PAWsitive caution!"**
 
 *(Unfortunately, international bone-throwing services aren't wolf-friendly here... but you can star my repos instead! ⭐)*
 
 [![Star This Den](https://img.shields.io/badge/-Star_My_Repos-%23FFCC00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weiknight0?tab=repositories)
-
-<!-- If you like what I do and want to throw me a bone:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_me_a_coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yourhandle) -->
 
 *"A happy wolf codes better!"* 🐾
