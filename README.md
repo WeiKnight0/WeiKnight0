@@ -35,21 +35,27 @@ My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves n
 </div>
 <div align="center">
 
-[![Wolf's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Wolf's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&layout=donut&theme=radical)
 </div>
 
 ## 🏷️ Wolf's Featured Repositories
 
 <div align="center">
   
-[![Qt-TrainTicketManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Qt-TrainTicketManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=radical)](https://github.com/WeiKnight0/Qt-TrainTicketManagementSystem)
+
+</div>
+<div align="center">
+
+[![Qt-TrainTicketManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=r1Way&repo=meiancloud&theme=radical)](https://github.com/r1Way/meiancloud)
+
+*P.S. meiancloud is a cooperation repo*
 
 </div>
 
 ## 🌙 Wolf's Activity Graph
 
-[![Wolf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiknight0&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Wolf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weiknight0&theme=react)
 
 ## 🐺 How to Support This Wolf
 
