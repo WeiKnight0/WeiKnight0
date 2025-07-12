@@ -26,24 +26,24 @@ I'm **WeiKnight**, a **Wolf Programmer** 🐺💻 from China who loves coding! W
 
 My favorite tech stack includes **C, Cpp, Python, Java** - because even wolves need a variety of tools in their den!
 
-## 🛠️ My GitHub Stats
+## 🛠️ Wolf's GitHub Stats
 
 <div align="center">
 
-![Wolf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weiknight0&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact&show_icons=true&random=123)
+![Wolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiknight0&show_icons=true&theme=radical)
 
 </div>
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&random=123&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiknight0&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ## 🏷️ Featured Repositories
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff)](https://github.com/WeiKnight0/Qt-TrainTicketManagementSystem)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=your-repo-2&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ff9900&text_color=ffffff)](https://github.com/weiknight0/your-repo-2) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiknight0&repo=Qt-TrainTicketManagementSystem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
