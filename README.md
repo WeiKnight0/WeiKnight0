@@ -1,7 +1,7 @@
 # 🐺 WeiKnight's Den 🐾
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/84631479?v=4" alt="Wolf Avatar" width="200" style="border-radius: 50%; border: 5px solid #ff9900;"/>
+  <img src="https://avatars.githubusercontent.com/WeiKnight0" alt="Wolf Avatar" width="200" style="border-radius: 50%; border: 5px solid #ff9900;"/>
   
 [![Bilibili](https://img.shields.io/badge/-Bilibili_Channel-%23FF8EB7?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/422502377)  
 <!-- [![Weibo](https://img.shields.io/badge/-Weibo-%23E6162D?style=flat&logo=sina-weibo&logoColor=white)](https://weibo.com/u/yourID)   -->
